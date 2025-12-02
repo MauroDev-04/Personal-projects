@@ -6,8 +6,6 @@
 ![Badge Java](https://img.shields.io/badge/JavaScript-blue)
 ![Badge Finalizado](https://img.shields.io/badge/Status:-Finalizado-blue)
 
-![Portada](https://github.com/VictorRodriguezL/Challenge-Encriptador-de-Texto/assets/123136998/6dbc50b6-65e1-466c-82a6-c4d22094536f)
-
 ## Descrpción del Proyecto
 
 Es la resolución del **Challenge - Encriptador de Texto** utilizando **HTML5**, **CSS3** y **JavaScript** es el primer reto de la formación **Oracle Next Education (ONE)** de **Oracle + Alura LATAM**.
@@ -56,15 +54,15 @@ Para probarlo se puede de dos maneras ya sea descargando una copia en su computa
 
 **Para descargarlo:**
 
-[Clic para Descargar](https://github.com/VictorRodriguezL/Challenge-Encriptador-de-Texto/releases/tag/v0.1.1)
+[Clic para Descargar]()
 
 **Para probarlo directamente:**
 
-[Encriptador de Texto](https://victorrodriguezl.github.io/Challenge-Encriptador-de-Texto/)
+[Encriptador de Texto]()
 
 **Demo:**
 
-![Demo](https://github.com/VictorRodriguezL/Challenge-Encriptador-de-Texto/assets/123136998/3015b1db-b343-4dce-816f-fe93f3a350c0)
+![Demo]()
 
 ## Construido con 🛠️
 
@@ -76,8 +74,5 @@ _Para desarrollar el proyecto, utilice las siguientes herramientas:_
 ## Autores ✒️
 
 * **Jeanmarie Quijada** - *Desarrolladora e Instructor en Alura LATAM* - [Jeanmarie](https://www.linkedin.com/in/jeanmariequijada/)
-* **Génesys Rondón** - *Desarrolladora e Instructora en Alura LATAM* - [Génesys](https://www.linkedin.com/in/genesysrondon914762182/)
-* **Victor Rodríguez** - *Desarrollador* - [Victor](https://www.linkedin.com/in/victor-manuel-rdz-l/)
-	
 		
 		
